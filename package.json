@@ -1,0 +1,25 @@
+{
+  "name": "insult",
+  "version": "0.0.1",
+  "description": "A package that generates random insults.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ./src/tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SydneyRain/insult.git"
+  },
+  "keywords": [
+    "insulter",
+    "insult",
+    "generator",
+    "insult"
+  ],
+  "author": "Sydney McKinley",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SydneyRain/insult/issues"
+  },
+  "homepage": "https://github.com/SydneyRain/insult#readme"
+}
