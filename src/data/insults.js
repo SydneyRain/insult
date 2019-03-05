@@ -1,4 +1,4 @@
-var insults = [
+module.exports = [
     'Your birth certificate is an apology letter from the condom factory.',
     'I\'d like to see things from your point of view but I can\'t seem to get my head that far up my ass.',
     'You must have been born on a highway because that\'s where most accidents happen.',
@@ -49,5 +49,3 @@ var insults = [
     'Why don\'t you let that hole under your nose heal up?',
     'For those who never forget a face, you are an exception.',
 ]
-
-module.exports.randomInsult = insults[Math.floor(Math.random() * insults.length)];

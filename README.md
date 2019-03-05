@@ -1,6 +1,8 @@
 # insult
 An insult generator made for node.js.
 
+**WARNING**: this package contains NSFW and very harsh, uncalled for language!
+
 ## Usage
 Add the library somewhere in your file like this:
 
